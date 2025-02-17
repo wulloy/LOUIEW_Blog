@@ -27,13 +27,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Test1</title>
-    <url>/2025/02/11/page/</url>
-    <content><![CDATA[<p>我向三体世界说话</p>
-<p><img src="https://pic.louiew.top/Typora/202502151707225.png" alt="1657188945561"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>K-ON！</title>
     <url>/2025/02/13/test1/</url>
     <content><![CDATA[<p> 今日放弃了netlify的二次部署加速，理由是发现github给的dds证书和这个网站好像有冲突!，目前单靠github进行部署，后续考虑移到服务器上，现在应该也许大概可以正常访问了…</p>
