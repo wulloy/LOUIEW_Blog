@@ -41,4 +41,22 @@
         <tag>心得体会</tag>
       </tags>
   </entry>
+  <entry>
+    <title>搭建过程中遇到的一些问题</title>
+    <url>/2025/02/17/Some%20question/</url>
+    <content><![CDATA[<h4 id="Git-解决github文件夹有向右的白色箭头并且不能打开的解决办法"><a href="#Git-解决github文件夹有向右的白色箭头并且不能打开的解决办法" class="headerlink" title="Git 解决github文件夹有向右的白色箭头并且不能打开的解决办法"></a>Git 解决github文件夹有向右的白色箭头并且不能打开的解决办法</h4><p>git上传网站的时候发现，themes主题中的NexT主题并没有上传成功，github中只有一个空文件夹</p>
+<p><strong>解决办法</strong>：参照<a href="https://www.jianshu.com/p/28e61a24d847">该网址</a> </p>
+<h4 id="NexT主题美化相关问题"><a href="#NexT主题美化相关问题" class="headerlink" title="NexT主题美化相关问题"></a>NexT主题美化相关问题</h4><p><strong>解决办法</strong>：参照<a href="https://www.cnblogs.com/jinwei26/articles/18460312">该网址</a> </p>
+<h4 id="图标icon查找"><a href="#图标icon查找" class="headerlink" title="图标icon查找"></a>图标icon查找</h4><p>有些标签的图标可以从这个网址查找一下对应名称。</p>
+<p><strong>解决办法</strong>：参照<a href="https://fontawesome.com.cn/v5">该网址</a> </p>
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>网站建设</category>
+      </categories>
+      <tags>
+        <tag>网站搭建</tag>
+        <tag>心得体会</tag>
+      </tags>
+  </entry>
 </search>
