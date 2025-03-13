@@ -1,47 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>建设~</title>
-    <url>/2025/02/11/page-1/</url>
-    <content><![CDATA[<p> 今日测试，在github上将源码与渲染内容分离，前者设置为priavte，后者为public，之间通过action进行推送，经过一晚上修改，现在已经完成初步的网站部署</p>
-<p>下一步进行网站的框架格式建设~</p>
-<p><img src="https://pic.louiew.top/Typora/kon.jpg" alt="合照 (203)"></p>
-<span id="more"></span>
+    <title>魔法使之夜</title>
+    <url>/2025/03/13/mofashi/</url>
+    <content><![CDATA[<h2 id="记录一些《魔法使之夜》的感触台词"><a href="#记录一些《魔法使之夜》的感触台词" class="headerlink" title="记录一些《魔法使之夜》的感触台词"></a>记录一些《魔法使之夜》的感触台词</h2><blockquote>
+<p>“所以，到底什么才是正确的，什么才是错误的，这些要一直走到致命的结局时才能知晓”  </p>
+<div class="quote-source">—— 草十郎</div></blockquote>
+<p>（有珠好看捏）</p>
 ]]></content>
       <categories>
-        <category>日常琐碎</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>麻了~</title>
-    <url>/2025/02/14/page-2/</url>
-    <content><![CDATA[<p> 今天本来想把博客主题等细节问题全部搞完，结果搞了半天发现，将主题改为<strong>Gemini</strong>后，用<strong>hexo s</strong>启动服务器本地查看是修改后的主题，但用<strong>hexo d</strong>推送至github之后，服务器上的主题并没有改变…</p>
-<p>搜了半天找到了解决方法，使用命令<strong>hexo clean</strong>清除缓存，再重新使用<strong>hexo g</strong>编译，最后再用<strong>hexo d</strong>推送，网站主题更换成功。</p>
-<p>tips：再不行再清空下网站的缓存等试试。</p>
-<p><img src="https://pic.louiew.top/Typora/202502150131529.png" alt="42209092_0"></p>
-<span id="more"></span>
-]]></content>
-      <categories>
-        <category>日常琐碎</category>
+        <category>台词记录</category>
       </categories>
       <tags>
-        <tag>困惑</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>K-ON！</title>
-    <url>/2025/02/13/test1/</url>
-    <content><![CDATA[<p> 今日放弃了netlify的二次部署加速，理由是发现github给的dds证书和这个网站好像有冲突!，目前单靠github进行部署，后续考虑移到服务器上，现在应该也许大概可以正常访问了…</p>
-<p>顺便换成了next主题，这个模板比较简洁，可扩展性比较强，后面也是会继续进行建设~！</p>
-<p><img src="https://pic.louiew.top/Typora/202502151738275.jpeg" alt="梅林英灵纪行"></p>
-<span id="more"></span>
-]]></content>
-      <categories>
-        <category>日常琐碎</category>
-      </categories>
-      <tags>
-        <tag>网站搭建</tag>
-        <tag>心得体会</tag>
+        <tag>动画</tag>
+        <tag>台词</tag>
       </tags>
   </entry>
   <entry>
@@ -63,8 +35,52 @@
       </tags>
   </entry>
   <entry>
+    <title>建设~</title>
+    <url>/2025/02/11/page-1/</url>
+    <content><![CDATA[<p> 今日测试，在github上将源码与渲染内容分离，前者设置为priavte，后者为public，之间通过action进行推送，经过一晚上修改，现在已经完成初步的网站部署</p>
+<p>下一步进行网站的框架格式建设~</p>
+<p><img src="https://pic.louiew.top/Typora/kon.jpg" alt="合照 (203)"></p>
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>日常琐碎</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>K-ON！</title>
+    <url>/2025/02/13/test1/</url>
+    <content><![CDATA[<p> 今日放弃了netlify的二次部署加速，理由是发现github给的dds证书和这个网站好像有冲突!，目前单靠github进行部署，后续考虑移到服务器上，现在应该也许大概可以正常访问了…</p>
+<p>顺便换成了next主题，这个模板比较简洁，可扩展性比较强，后面也是会继续进行建设~！</p>
+<p><img src="https://pic.louiew.top/Typora/202502151738275.jpeg" alt="梅林英灵纪行"></p>
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>日常琐碎</category>
+      </categories>
+      <tags>
+        <tag>网站搭建</tag>
+        <tag>心得体会</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>麻了~</title>
+    <url>/2025/02/14/page-2/</url>
+    <content><![CDATA[<p> 今天本来想把博客主题等细节问题全部搞完，结果搞了半天发现，将主题改为<strong>Gemini</strong>后，用<strong>hexo s</strong>启动服务器本地查看是修改后的主题，但用<strong>hexo d</strong>推送至github之后，服务器上的主题并没有改变…</p>
+<p>搜了半天找到了解决方法，使用命令<strong>hexo clean</strong>清除缓存，再重新使用<strong>hexo g</strong>编译，最后再用<strong>hexo d</strong>推送，网站主题更换成功。</p>
+<p>tips：再不行再清空下网站的缓存等试试。</p>
+<p><img src="https://pic.louiew.top/Typora/202502150131529.png" alt="42209092_0"></p>
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>日常琐碎</category>
+      </categories>
+      <tags>
+        <tag>困惑</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《玉子爱情故事》</title>
-    <url>/2025/02/20/%E7%8E%89%E5%AD%90%E5%B8%82%E5%9C%BA%E5%92%8C%E7%8E%89%E5%AD%90%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B/</url>
+    <url>/2025/02/20/yuziaiqing/</url>
     <content><![CDATA[<h2 id="剧情简介"><a href="#剧情简介" class="headerlink" title="剧情简介"></a>剧情简介</h2><blockquote>
 <p>“我最喜欢饼藏了！请讲！”  </p>
 <div class="quote-source">—— 玉子</div></blockquote>
@@ -109,34 +125,6 @@
       <tags>
         <tag>动画</tag>
         <tag>观后感</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>魔法使之夜</title>
-    <url>/2025/03/13/%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C/</url>
-    <content><![CDATA[<h2 id="记录一些《魔法使之夜》的感触台词"><a href="#记录一些《魔法使之夜》的感触台词" class="headerlink" title="记录一些《魔法使之夜》的感触台词"></a>记录一些《魔法使之夜》的感触台词</h2><blockquote>
-<p>“所以，到底什么才是正确的，什么才是错误的，这些要一直走到致命的结局时才能知晓”  </p>
-<div class="quote-source">—— 草十郎</div></blockquote>
-<p>（有珠好看捏）</p>
-<img src="/2025/03/13/魔法使之夜/"  style="zoom:67%;" />
-
-
-
-<span id="more"></span>
-
-
-
-
-
-
-
-]]></content>
-      <categories>
-        <category>台词记录</category>
-      </categories>
-      <tags>
-        <tag>动画</tag>
-        <tag>台词</tag>
       </tags>
   </entry>
 </search>
